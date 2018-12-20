@@ -1,1 +1,1 @@
-import web_controller
+from . import lc_report
